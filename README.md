@@ -42,7 +42,7 @@ Rather than following a conventional portfolio layout, this project presents per
 2. Navigate to the project directory:
 
    ```bash
-   cd om-more-portfolio
+   cd Portfolio-Arise-competition
    ```
 
 3. Open `index.html` in your browser or run the project using a local development server.
